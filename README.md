@@ -3,6 +3,6 @@
 Hello!
 
 This is a Tic Tac Toe game.
-This project technology like HTML, CSS, and JS.
+This project includes technologies like HTML, CSS, and JS.
 
 Thank You!
